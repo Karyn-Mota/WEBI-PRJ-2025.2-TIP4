@@ -3,7 +3,7 @@
 **Repositório de projetos HTML da estudante Karynne Mota de Abreu.**
 
 - [Projeto 1](https://karyn-mota.github.io/webi_pj1/)
-- [Projeto 2]()
+- [Projeto 2](https://karyn-mota.github.io/webi_pj2/)
 - [Projeto 3]()
 - [Projeto 4]()
 - [Projeto 5]()
